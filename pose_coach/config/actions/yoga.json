@@ -1,0 +1,25 @@
+{
+  "segment_main_series": "knee_L",
+  "segment_min_prominence": 10,
+  "segment_min_distance": 12,
+  "rom": {
+    "min": 5,
+    "max": 40
+  },
+  "tempo": {
+    "min_len": 60,
+    "max_len": 600
+  },
+  "hard": {
+    "rom_min": 3,
+    "trunk_min": 0.7,
+    "cap_score": 55
+  },
+  "weights": {
+    "rom": 0.6,
+    "symmetry": 1.0,
+    "trunk": 2.0,
+    "smoothness": 2.0,
+    "tempo": 0.4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "segment_main_series": "elbow_R",
+  "segment_min_prominence": 6,
+  "segment_min_distance": 8,
+  "rom": {
+    "min": 25,
+    "max": 120
+  },
+  "tempo": {
+    "min_len": 6,
+    "max_len": 40
+  },
+  "hard": {
+    "rom_min": 15,
+    "trunk_min": 0.5,
+    "cap_score": 60
+  },
+  "weights": {
+    "rom": 1.6,
+    "symmetry": 1.2,
+    "trunk": 0.8,
+    "smoothness": 1.0,
+    "tempo": 1.4
+  }
+}

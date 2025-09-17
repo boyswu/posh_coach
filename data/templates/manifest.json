@@ -1,0 +1,71 @@
+{
+  "recommended": [
+    {
+      "title": "太极",
+      "cover": "data/covers/taiji_demo.jpg",
+      "video": "data/videos/taiji_demo.mp4"
+    },
+    {
+      "title": "瑜伽",
+      "cover": "data/covers/dance_demo.jpg",
+      "video": "data/videos/dance_demo.mp4"
+    },
+    {
+      "title": "乒乓球挥拍",
+      "cover": "data/covers/pingpong_demo.jpg",
+      "video": "data/videos/squat_demo.mp4"
+    },
+    {
+      "title": "健身深蹲",
+      "cover": "data/covers/squat_demo.jpg",
+      "video": "data/videos/squat_demo.mp4"
+    },
+    {
+      "title": "跳远",
+      "cover": "data/covers/long_jump_demo.jpg",
+      "video": "data/videos/long_jump_demo.mp4"
+    }
+  ],
+  "samples": {
+    "太极": [
+      {
+        "title": "第一式",
+        "video": "data/videos/taiji_demo.mp4"
+      },
+      {
+        "title": "第二式",
+        "video": "data/videos/taiji_demo.mp4"
+      },
+      {
+        "title": "第三式",
+        "video": "data/videos/taiji_demo.mp4"
+      }
+
+    ],
+    "舞蹈": [
+      {
+        "title": "芭蕾舞",
+        "video": "data/videos/dance_demo.mp4"
+      }
+    ],
+    "跳远": [
+      {
+        "title": "助跑节奏",
+        "video": "data/videos/squat_demo.mp4"
+      }
+    ],
+    "乒乓球": [
+      {
+        "title": "挥拍动作",
+        "video": "data/videos/pingpong_demo.mp4"
+      }
+    ],
+    "健身": [
+      {
+        "title": "徒手深蹲",
+        "video": "data/videos/squat_demo.mp4"
+      }
+
+    ]
+  }
+}
