@@ -1,9 +1,9 @@
 {
   "db": {
-    "host": "120.53.2.123",
+    "host": "yours——ip",
     "port": 3306,
     "user": "root",
-    "password": "team2111..",
+    "password": "yours",
     "name": "posecoach"
   },
   "scoring": {
