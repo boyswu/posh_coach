@@ -13,3 +13,5 @@
 Thumbs.db
 # 忽略本地化文件夹
 storage/
+# 忽略配置文件
+pose_coach/config.yaml
